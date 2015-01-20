@@ -1,0 +1,2 @@
+void HookCallsFromIda();
+void RestoreHallsFromIda();
